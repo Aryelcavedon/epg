@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RECORD DF FHD">
+    <display-name lang="pt">RECORD DF FHD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tveducar.gif|http://www.lineup.tv.br/canais/tvhorizonte.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RECORD GO FHD">
+    <display-name lang="pt">RECORD GO FHD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvperis.gif|http://www.lineup.tv.br/canais/difusora.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC F3">
+    <display-name lang="pt">AMC F3</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvpicos.gif|http://www.lineup.tv.br/canais/tvantares.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET F3">
+    <display-name lang="pt">ANIMAL PLANET F3</display-name>
+    <icon src="http://www.lineup.tv.br/canais/chungtien.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND F3">
+    <display-name lang="pt">BAND F3</display-name>
+    <icon src="http://www.lineup.tv.br/canais/foxsports.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BIS F3">
+    <display-name lang="pt">BIS F3</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcidadeoeste.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BOOMERANG F3">
+    <display-name lang="pt">BOOMERANG F3</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbt-pa.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
