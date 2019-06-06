@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RECORD DF FHD, RECORD BA HD²">
+  <channel id="RECORD HD">
     <display-name lang="pt">RECORD</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <icon src="http://www.lineup.tv.br/canais/eptv.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RECORD">
+    <display-name lang="pt">RECORD SD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ewtn.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN HD***">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvamazonas-saomateus.gif|http://www.lineup.tv.br/canais/redemeionorte.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
 </tv>
